@@ -35,6 +35,7 @@
   - [yuanjie-ai](https://github.com/yuanjie-ai/ChineseSensitiveVocabulary/tree/master/chinese_sensitive_vocabulary/data)
   - [pennyliang](https://github.com/pennyliang/ciku)
   - [yq-ysy](https://github.com/YQ-YSY/stroke-seq_MB/blob/master/辅助程序Python3脚本/排除词.txt), (https://gitee.com/yq-ysy/one-hand_code/blob/master/辅助程序Python3脚本/排除词.txt)
+  - [konsheng](https://github.com/konsheng/Sensitive-lexicon)
 
 - **hugging face**来源
 

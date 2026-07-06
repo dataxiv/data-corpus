@@ -1,7 +1,5 @@
 # 语料数据和词库
 
-:date: 2024/3/28 新建
-
 ## 中文停用词 `stopwords-zh`
 
 - [goto456](https://github.com/goto456/stopwords)
