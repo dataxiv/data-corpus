@@ -1,4 +1,4 @@
-## 审查词库（敏感词/违禁词）
+ ## 审查词库（敏感词/违禁词）
 
 - 网络来源
 
@@ -8,6 +8,7 @@
   - [人人网-2014](http://x7.ogzq.renren.com/Scripts/PublicJs.js)
   - [新浪微博搜索敏感词列表(2011-2018)](https://docs.google.com/spreadsheets/d/1UTP9MU80r_N5WPhQ5-4AjM0ebW1eMxyDlRe_vaYy9IM/edit#gid=0)
   - [网易 badwords（坏词）](http://sports.163.com/special/00051DT9/badwords.txt)
+  - 微信输入法敏感词库 `cell_dict.ssrc.zh` <!-- https://v2ex.com/t/1254864 -->
 
 - **chinadigitaltimes**来源
 
@@ -22,8 +23,8 @@
 
 - **github**来源
 
-  - [cjh0613-腾讯的离线敏感词库](https://github.com/cjh0613/tencent-sensitive-words)
-    - [cjh0613-轻量超严格敏感词库](https://github.com/cjh0613/strict-sensitive-word)
+  - [cjh0613](https://github.com/cjh0613/tencent-sensitive-words) 腾讯的离线敏感词库
+    - [cjh0613](https://github.com/cjh0613/strict-sensitive-word) 轻量超严格敏感词库
   - [fwwdn](https://github.com/fwwdn/sensitive-stop-words)
     - [selfcs](https://github.com/selfcs/stop-and-sensitive-words)
     - [jkiss](https://github.com/jkiss/sensitive-words)
@@ -34,9 +35,21 @@
   - [toolgood](https://github.com/toolgood/ToolGood.Words)
   - [yuanjie-ai](https://github.com/yuanjie-ai/ChineseSensitiveVocabulary/tree/master/chinese_sensitive_vocabulary/data)
   - [pennyliang](https://github.com/pennyliang/ciku)
-  - [yq-ysy](https://github.com/YQ-YSY/stroke-seq_MB/blob/master/辅助程序Python3脚本/排除词.txt), (https://gitee.com/yq-ysy/one-hand_code/blob/master/辅助程序Python3脚本/排除词.txt)
+  - [yq-ysy](https://github.com/YQ-YSY/stroke-seq_MB/blob/master/辅助程序Python3脚本/排除词.txt)
+    - https://gitee.com/yq-ysy/one-hand_code/blob/master/辅助程序Python3脚本/排除词.txt
   - [konsheng](https://github.com/konsheng/Sensitive-lexicon)
+  - [57ing](https://github.com/57ing/Sensitive-word)
+  - [dablelv](https://github.com/dablelv/dirty-cnwords)
+  - profane-words
+    - [zautumnz](https://github.com/zautumnz/profane-words) 英文
+    - [awdev1](https://github.com/awdev1/better-profane-words)
+  - [derikk](https://github.com/derikk/swipeblocked) 英文等（暂不支持中文）
+  - [coffee-and-fun](https://github.com/coffee-and-fun/google-profanity-words) 多语言
+  - [ldnoobw](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) 多语言
 
 - **hugging face**来源
 
   - [a686d380/simple-h](https://huggingface.co/datasets/a686d380/simple-h)
+  - NLLB-200_TWL 多语言
+    - https://tinyurl.com/NLLB200TWL （_PASS = "tL4nLLb"）
+    - [](https://huggingface.co/datasets/SEACrowd/toxicity_200/)
